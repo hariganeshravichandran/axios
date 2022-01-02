@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "age": "23",
+      "athelete": "Michael phelps",
+      "bronze":"0",
+      "country":"uniteds States",
+      "gold":"8",
+      "silver":"0",
+      "sport":"swimming",
+      "total":"8",
+      "year":"2008"
+    },
+   {
+        "id": 2,
+        "age": "19",
+        "athelete": "Michael phelps",
+        "bronze":"2",
+        "country":"uniteds States",
+        "gold":"6",
+        "silver":"0",
+        "sport":"swimming",
+        "total":"8",
+        "year":"2004"
+    },
+    {
+      "id": 3,
+      "age": "27",
+      "athelete": "Michael phelps",
+      "bronze":"0",
+      "country":"uniteds States",
+      "gold":"4",
+      "silver":"2",
+      "sport":"swimming",
+      "total":"6",
+      "year":"2012"
+    }
+  ]
+}
+  
